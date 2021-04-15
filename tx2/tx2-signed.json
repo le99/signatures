@@ -1,0 +1,4 @@
+{
+  "txid": "0x42113eb782d90f9326309d5c46ec55c97af7114a34adcec87ad9f26c82bbae344f40fa6b744474896bfd0282c83d09970ec3ce5581361d8f9d2dd98669e18ee61c",
+  "transaction": "{\"type\":\"todo\",\"input\":\"0xfcc2fc00a6b6a81113697cfb89d49f7e17cca87ffb860e6ac5fb65dfd755a5b607ceddd0e4986f3f14c0bf88ab14a575c56eaba8bc466ef9de68fd0a44123a751c\",\"output\":{\"value\":\"Todo1\",\"owner\":\"03d2b93159d160dca608af87c966a9e8469578de01b3f33d8c1dca870845346a83\"}}"
+}
